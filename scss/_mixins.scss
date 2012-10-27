@@ -116,7 +116,7 @@ span.amp {
 .text-right  { text-align: right; }
 
 
-// alerts and notices
+// alerts and notices  -  *You'll need to be using Sass 3.2+ for these to work.
 %alert {
 	margin: 10px;
 	padding: 5px 18px;
